@@ -1,6 +1,7 @@
 # HarvardX-Data-Science-Capstone-machine-learning-heart-disease
 
-📊 Heart Disease Prediction Using Machine Learning
+📊 Heart Disease Prediction Using Machine Learning.
+
 This project aims to predict the presence of heart disease using various machine learning classification models. It was completed as part of an edX course final project, using the tidymodels framework in R.
 
 ![Heart Disease Project](https://raw.githubusercontent.com/ABUALHUSSEIN/Heart-disease-HarvardX-Data-Science-Capstone-machine-learning/main/Heart_Disease.jpeg)
