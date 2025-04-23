@@ -39,19 +39,6 @@ Confusion Matrix
 
 ROC Curve and AUC
 
-📁 Project Structure
-bash
-نسخ
-تحرير
-heart-disease-prediction/
-├── heart_disease_project.Rmd   # RMarkdown analysis file
-├── heart_disease_project.pdf   # Rendered report
-├── data/                       # Dataset folder
-│   └── heart.csv
-├── README.md                   # Project documentation
-📌 Dataset
-The dataset was sourced from this GitHub repository. It contains features related to patient medical history and cardiovascular metrics.
-
 🧪 Getting Started
 To run the project:
 
