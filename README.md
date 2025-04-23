@@ -3,6 +3,7 @@
 📊 Heart Disease Prediction Using Machine Learning
 This project aims to predict the presence of heart disease using various machine learning classification models. It was completed as part of an edX course final project, using the tidymodels framework in R.
 
+![Description of Image]([path/to/image.jpg](https://github.com/ABUALHUSSEIN/Heart-disease-HarvardX-Data-Science-Capstone-machine-learning/blob/main/Heart_Disease.jpeg))
 🧠 Models Used
 Logistic Regression
 
