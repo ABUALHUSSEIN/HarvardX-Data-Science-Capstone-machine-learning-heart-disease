@@ -7,6 +7,7 @@ This project aims to predict the presence of heart disease using various machine
 ![Heart Disease Project](https://raw.githubusercontent.com/ABUALHUSSEIN/Heart-disease-HarvardX-Data-Science-Capstone-machine-learning/main/Heart_Disease.jpeg)
 
 🧠 Models Used
+
 Logistic Regression
 
 k-Nearest Neighbors (kNN)
